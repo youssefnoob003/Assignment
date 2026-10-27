@@ -3,6 +3,8 @@
 - **draco** — draco-rc5 (classic wrap path; MM app present)
 - **v7** — v7.0.0 @ 9ba6759, the only exploitable window of CVE-2026-5476
 
+[Screencast_20261027_082028.webm](https://github.com/user-attachments/assets/31d25477-96a8-4917-a676-3bc43118e633)
+
 ## Build & run
 
 ```bash
